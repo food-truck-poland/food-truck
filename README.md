@@ -1,1 +1,1 @@
-# food-truck
+Food Truck GUI repository.
